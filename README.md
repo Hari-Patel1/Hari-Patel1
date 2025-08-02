@@ -7,7 +7,7 @@ I'm a web and app developer & designer experienced in Flutter, Python, and TypeS
 I'm a web and app developer & designer with a strong foundation in Flutter, Python, and TypeScript, building clean UIs and full-stack applications. I’ve developed many projects such as a stock market tracker that uses a custom AI model to predict next-day prices, a self-hosted AI chatbot using Ollama for fast, private LLM responses, and a full-stack yt-dlp interface with clipboard integration and download controls - all focusing on practical design, performance, and real-world usability.
 
 * 🌍  I'm based in United Kingdom
-* 🖥️  See my portfolio at [My Projects](https://github.com/Hari-Patel1?tab=repositories)
+* 🖥️  See my portfolio at <a href="https://github.com/Hari-Patel1?tab=repositories">My Projects</a>
 * ✉️  You can contact me at [pateljhari@gmail.com](mailto:pateljhari@gmail.com)
 * 🚀  I'm currently working on [Yt-Dlp User Client](http://https://github.com/Hari-Patel1/Yt-DlpGuiGrabber-Backend)
 * 🧠  I'm learning how to use the TensorFlow libraries
