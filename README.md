@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif). My name is Hari Patel
 ==================================================================================================================================
 
-I'm a multiplatform, web & app developer & designer experienced in Flutter, React, Python, and TypeScript
+I'm a multiplatform developer & designer experienced in Flutter, React, Python, and TypeScript
 -------------------------------------------------------------------------------------
 
 I'm a web and app developer & designer with a strong foundation in Flutter, Python, and TypeScript, building clean UIs and full-stack applications. I’ve developed many projects such as a stock market tracker that uses a custom AI model to predict next-day prices, a self-hosted AI chatbot using Ollama for fast, private LLM responses, and a full-stack yt-dlp interface with clipboard integration and download controls - all focusing on practical design, performance, and real-world usability.
